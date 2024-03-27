@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: red;
+}
+
+footer{
+    width: 100%;
+    display: flex;
+     background-color: black;
+     padding: 40px;
+}
+img{
+    width: 80px;
+    height: 50px;
+}
+.firstchild, .secoldchild, .thirdchild, .fourthchild {
+    flex: 25%;
+}
+li{
+    list-style: none;
+}
+h4{
+    margin-bottom: 20px;
+}
+p{
+    margin: 10px 10px 10px 0;
+}
